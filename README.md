@@ -1,4 +1,4 @@
-Snake game, projeto da dio.me,
+Snake game, projeto de aula da  dio.me,
 
 Jogo desenvolvido em html, css e javascript a ser jogado em browser e relembrar o famoso jogo da cobrinha.
 
